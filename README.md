@@ -13,7 +13,7 @@
 3. 在本地開啟後，透過終端機進入資料夾 a1rstaurant
 4. 瀏覽器進入網址 http://localhost:3000
 
-###開發工具
+### 開發工具
 * Node.js 16.13.0
 * Express 4.17.1
 * Express-Handlebars 3.0.0
